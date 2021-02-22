@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.css",
+    "main.js": "./static/js/main.js",
+    "main.js.map": "./static/js/main.js.map",
+    "index.html": "./index.html",
+    "static/css/main.css.map": "./static/css/main.css.map",
+    "static/js/main.js.LICENSE.txt": "./static/js/main.js.LICENSE.txt",
+    "static/media/armor.4b8b334e.svg": "./static/media/armor.4b8b334e.svg",
+    "static/media/exit.4c3a4716.svg": "./static/media/exit.4c3a4716.svg",
+    "static/media/health.3341d4c7.svg": "./static/media/health.3341d4c7.svg",
+    "static/media/hunger.3febe399.svg": "./static/media/hunger.3febe399.svg",
+    "static/media/stress.37b92574.svg": "./static/media/stress.37b92574.svg",
+    "static/media/thirst.c2e7cf1f.svg": "./static/media/thirst.c2e7cf1f.svg",
+    "static/media/voice.30a01be6.svg": "./static/media/voice.30a01be6.svg"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}
