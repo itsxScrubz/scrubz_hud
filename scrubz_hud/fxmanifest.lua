@@ -6,7 +6,10 @@ name 'scrubz_hud'
 author 'Scrubz#0001'
 version 'v1.0'
 
-client_script 'client/*.lua'
+client_scripts {
+    'client/lib.lua',
+    'client/cl_hud.lua'
+}
 
 ui_page 'ui/index.html'
 
